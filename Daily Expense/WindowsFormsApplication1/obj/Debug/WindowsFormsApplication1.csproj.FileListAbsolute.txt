@@ -8,3 +8,9 @@ G:\SADDAM HOSSAIN RANA\WindowsFormsApplication1\WindowsFormsApplication1\bin\Deb
 G:\SADDAM HOSSAIN RANA\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CSVLib.dll
 G:\SADDAM HOSSAIN RANA\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 G:\SADDAM HOSSAIN RANA\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\acer\Desktop\GitHub\BasisClass\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\acer\Desktop\GitHub\BasisClass\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\acer\Desktop\GitHub\BasisClass\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\acer\Desktop\GitHub\BasisClass\Daily Expense\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\acer\Desktop\GitHub\BasisClass\Daily Expense\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\acer\Desktop\GitHub\BasisClass\Daily Expense\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
