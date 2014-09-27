@@ -1,0 +1,18 @@
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\tranzasion\tranzasion\bin\Debug\tranzasion.exe.config
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\tranzasion\tranzasion\obj\Debug\tranzasion.csprojResolveAssemblyReference.cache
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\tranzasion\tranzasion\obj\Debug\tranzasion.Form1.resources
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\tranzasion\tranzasion\obj\Debug\tranzasion.Properties.Resources.resources
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\tranzasion\tranzasion\obj\Debug\tranzasion.csproj.GenerateResource.Cache
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\tranzasion\tranzasion\bin\Debug\tranzasion.exe
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\tranzasion\tranzasion\bin\Debug\tranzasion.pdb
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\tranzasion\tranzasion\obj\Debug\tranzasion.exe
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\tranzasion\tranzasion\obj\Debug\tranzasion.pdb
+C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\bin\Debug\tranzasion.exe.config
+C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\obj\Debug\tranzasion.exe
+C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\obj\Debug\tranzasion.pdb
+C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\bin\Debug\tranzasion.exe
+C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\bin\Debug\tranzasion.pdb
+C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\obj\Debug\tranzasion.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\obj\Debug\tranzasion.Form1.resources
+C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\obj\Debug\tranzasion.Properties.Resources.resources
+C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\obj\Debug\tranzasion.csproj.GenerateResource.Cache

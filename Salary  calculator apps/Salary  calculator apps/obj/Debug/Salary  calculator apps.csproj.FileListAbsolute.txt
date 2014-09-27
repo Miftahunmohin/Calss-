@@ -1,0 +1,9 @@
+c:\users\pc21\documents\visual studio 2013\Projects\Salary  calculator apps\Salary  calculator apps\bin\Debug\Salary  calculator apps.exe.config
+c:\users\pc21\documents\visual studio 2013\Projects\Salary  calculator apps\Salary  calculator apps\bin\Debug\Salary  calculator apps.exe
+c:\users\pc21\documents\visual studio 2013\Projects\Salary  calculator apps\Salary  calculator apps\bin\Debug\Salary  calculator apps.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\Salary  calculator apps\Salary  calculator apps\obj\Debug\Salary  calculator apps.csprojResolveAssemblyReference.cache
+c:\users\pc21\documents\visual studio 2013\Projects\Salary  calculator apps\Salary  calculator apps\obj\Debug\Salary__calculator_apps.Form1.resources
+c:\users\pc21\documents\visual studio 2013\Projects\Salary  calculator apps\Salary  calculator apps\obj\Debug\Salary__calculator_apps.Properties.Resources.resources
+c:\users\pc21\documents\visual studio 2013\Projects\Salary  calculator apps\Salary  calculator apps\obj\Debug\Salary  calculator apps.csproj.GenerateResource.Cache
+c:\users\pc21\documents\visual studio 2013\Projects\Salary  calculator apps\Salary  calculator apps\obj\Debug\Salary  calculator apps.exe
+c:\users\pc21\documents\visual studio 2013\Projects\Salary  calculator apps\Salary  calculator apps\obj\Debug\Salary  calculator apps.pdb
