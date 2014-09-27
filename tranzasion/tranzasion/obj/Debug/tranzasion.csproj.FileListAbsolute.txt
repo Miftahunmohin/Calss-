@@ -16,3 +16,12 @@ C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\obj\Debug\tranzasion.cspr
 C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\obj\Debug\tranzasion.Form1.resources
 C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\obj\Debug\tranzasion.Properties.Resources.resources
 C:\Users\PC21\Desktop\prince git\tranzasion\tranzasion\obj\Debug\tranzasion.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\New folder (2)\BasisClass\tranzasion\tranzasion\bin\Debug\tranzasion.exe.config
+C:\Users\acer\Desktop\New folder (2)\BasisClass\tranzasion\tranzasion\obj\Debug\tranzasion.exe
+C:\Users\acer\Desktop\New folder (2)\BasisClass\tranzasion\tranzasion\obj\Debug\tranzasion.pdb
+C:\Users\acer\Desktop\New folder (2)\BasisClass\tranzasion\tranzasion\bin\Debug\tranzasion.exe
+C:\Users\acer\Desktop\New folder (2)\BasisClass\tranzasion\tranzasion\bin\Debug\tranzasion.pdb
+C:\Users\acer\Desktop\New folder (2)\BasisClass\tranzasion\tranzasion\obj\Debug\tranzasion.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\New folder (2)\BasisClass\tranzasion\tranzasion\obj\Debug\tranzasion.Form1.resources
+C:\Users\acer\Desktop\New folder (2)\BasisClass\tranzasion\tranzasion\obj\Debug\tranzasion.Properties.Resources.resources
+C:\Users\acer\Desktop\New folder (2)\BasisClass\tranzasion\tranzasion\obj\Debug\tranzasion.csproj.GenerateResource.Cache

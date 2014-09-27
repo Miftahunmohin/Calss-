@@ -16,8 +16,8 @@ namespace tranzasion
         private void button1_Click(object sender, EventArgs e)
         {
             account = new Account(); 
-            account.number = accountNumberTextBox.Text;
-            account.name = customarNameTextBox.Text;
+            account.Number =  ( accountNumberTextBox.Text);
+            account.Name= ( customarNameTextBox.Text);
             MessageBox.Show("Account created!!!!!");
             accountNumberTextBox.Text=string.Empty;
             customarNameTextBox.Text=string.Empty;
@@ -26,7 +26,7 @@ namespace tranzasion
         private void reportButton_Click(object sender, EventArgs e)
         {
          //   MessageBox.Show(account.Report());
-            string mess = account.name + " your account is : " + account.number + " it's balance is : " + account.blance;
+            string mess = account.Name + " your account is : " + account.Number + " it's balance is : " + account.Balance;
             MessageBox.Show(mess);
         }
 

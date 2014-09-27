@@ -8,20 +8,66 @@ namespace tranzasion
 {
     class Account
     {
-        public string number;
-        public string name;
-        public double blance=0;
+      private string number;
+      private string name;
+      private double balance=0;
 
+      #region old private data access use 
+      //public void SetNumber(string number)
+      //  {
+      //      this.number = number;
+      //  }
 
+      //  public string GetNumber()
+      //  {
+      //      return number;
+      //  }
+      //  public void SetName(string name)
+      //  {
+      //      this.name = name;
+      //  }
+
+      //  public string GetName()
+      //  {
+      //      return name;
+      //  }
+      //  public void SetBlance(double blance)
+      //  {
+      //      this.balance = blance;
+      //  }
+
+      //  public double GetBlance()
+      //  {
+      //      return balance;
+      //  }
+      #endregion
+
+      public string Number
+      {
+          get { return number; }
+          set { number = value; }
+      }
+
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
+        public double Balance
+        {
+            get { return balance; }
+            
+        }
 
         public void Deposit(double inAmount)
         {
-            blance += inAmount;
+            balance += inAmount;
         }
 
         public void WithDorow(double outAmount)
         {
-            blance -= outAmount;
+            balance -= outAmount;
         }
 
        
