@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2013\Projects\Circle apps\Circle apps\bin\Debug\Circle apps.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\Circle apps\Circle apps\bin\Debug\Circle apps.exe
+c:\users\acer\documents\visual studio 2013\Projects\Circle apps\Circle apps\bin\Debug\Circle apps.pdb
+c:\users\acer\documents\visual studio 2013\Projects\Circle apps\Circle apps\obj\Debug\Circle apps.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\Circle apps\Circle apps\obj\Debug\Circle apps.exe
+c:\users\acer\documents\visual studio 2013\Projects\Circle apps\Circle apps\obj\Debug\Circle apps.pdb
