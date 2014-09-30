@@ -1,0 +1,9 @@
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\bin\Debug\culculete result apps.exe.config
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\bin\Debug\culculete result apps.exe
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\bin\Debug\culculete result apps.pdb
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\obj\Debug\culculete result apps.csprojResolveAssemblyReference.cache
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\obj\Debug\culculete_result_apps.Form1.resources
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\obj\Debug\culculete_result_apps.Properties.Resources.resources
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\obj\Debug\culculete result apps.csproj.GenerateResource.Cache
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\obj\Debug\culculete result apps.exe
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\obj\Debug\culculete result apps.pdb
