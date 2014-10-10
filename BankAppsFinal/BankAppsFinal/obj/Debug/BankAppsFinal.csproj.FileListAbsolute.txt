@@ -1,0 +1,9 @@
+G:\SADDAM HOSSAIN RANA\BankAppsFinal\BankAppsFinal\bin\Debug\BankAppsFinal.exe.config
+G:\SADDAM HOSSAIN RANA\BankAppsFinal\BankAppsFinal\bin\Debug\BankAppsFinal.exe
+G:\SADDAM HOSSAIN RANA\BankAppsFinal\BankAppsFinal\bin\Debug\BankAppsFinal.pdb
+G:\SADDAM HOSSAIN RANA\BankAppsFinal\BankAppsFinal\obj\Debug\BankAppsFinal.csprojResolveAssemblyReference.cache
+G:\SADDAM HOSSAIN RANA\BankAppsFinal\BankAppsFinal\obj\Debug\BankAppsFinal.Form1.resources
+G:\SADDAM HOSSAIN RANA\BankAppsFinal\BankAppsFinal\obj\Debug\BankAppsFinal.Properties.Resources.resources
+G:\SADDAM HOSSAIN RANA\BankAppsFinal\BankAppsFinal\obj\Debug\BankAppsFinal.csproj.GenerateResource.Cache
+G:\SADDAM HOSSAIN RANA\BankAppsFinal\BankAppsFinal\obj\Debug\BankAppsFinal.exe
+G:\SADDAM HOSSAIN RANA\BankAppsFinal\BankAppsFinal\obj\Debug\BankAppsFinal.pdb

@@ -21,3 +21,5 @@ E:\OOP0149-Evening\30-Sep-2014\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\Ref
 E:\OOP0149-Evening\30-Sep-2014\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.csproj.GenerateResource.Cache
 C:\Users\acer\Desktop\Git prince\BasisClass\30-Sep-2014\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.exe
 C:\Users\acer\Desktop\Git prince\BasisClass\30-Sep-2014\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.pdb
+C:\Users\acer\Desktop\Git prince\BasisClass\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.exe
+C:\Users\acer\Desktop\Git prince\BasisClass\RefrizeratorApp\RefrizeratorApp\obj\x86\Debug\RefrizeratorApp.pdb
