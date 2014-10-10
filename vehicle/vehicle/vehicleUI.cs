@@ -21,7 +21,15 @@ namespace vehicle
         {
 
         }
+        private void createButton_Click_1(object sender, EventArgs e)
+        {
+            aCulculat = new Culculat();
+            aCulculat.Name = VehicleNameTextBox.Text;
+            aCulculat.Reg = RegNoTextBox.Text;
+            MessageBox.Show(@"vehicle Account has been created   ");
 
+
+        }
         private void createButton_Click(object sender, EventArgs e)
         {
             aCulculat = new Culculat();
@@ -38,7 +46,12 @@ namespace vehicle
             avarageTextBox.Text = aCulculat.SpeedClculate().ToString();
 
         }
-
+        private void showButton_Click_1(object sender, EventArgs e)
+        {
+            maxSpeedTextBox.Text = aCulculat.MaxCalculator().ToString();
+            minSpeedTextBox.Text = aCulculat.MinCalculator().ToString();
+            avarageTextBox.Text = aCulculat.SpeedClculate().ToString();
+        }
         private void enterButton_Click(object sender, EventArgs e)
         {
             if (aCulculat != null)
@@ -52,5 +65,9 @@ namespace vehicle
            
     
         }
+
+      
+
+     
     }
 }

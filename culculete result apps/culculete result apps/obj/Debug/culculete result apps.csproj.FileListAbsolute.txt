@@ -7,3 +7,6 @@ c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result app
 c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\obj\Debug\culculete result apps.csproj.GenerateResource.Cache
 c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\obj\Debug\culculete result apps.exe
 c:\users\nazmul hasan\documents\visual studio 2013\Projects\culculete result apps\culculete result apps\obj\Debug\culculete result apps.pdb
+C:\Users\acer\Desktop\Git prince\BasisClass\culculete result apps\culculete result apps\bin\Debug\culculete result apps.exe.config
+C:\Users\acer\Desktop\Git prince\BasisClass\culculete result apps\culculete result apps\obj\Debug\culculete result apps.exe
+C:\Users\acer\Desktop\Git prince\BasisClass\culculete result apps\culculete result apps\obj\Debug\culculete result apps.pdb

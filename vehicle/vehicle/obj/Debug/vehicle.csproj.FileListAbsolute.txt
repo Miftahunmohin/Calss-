@@ -7,3 +7,12 @@ c:\users\nazmul hasan\documents\visual studio 2013\Projects\vehicle\vehicle\obj\
 c:\users\nazmul hasan\documents\visual studio 2013\Projects\vehicle\vehicle\obj\Debug\vehicle.csproj.GenerateResource.Cache
 c:\users\nazmul hasan\documents\visual studio 2013\Projects\vehicle\vehicle\obj\Debug\vehicle.exe
 c:\users\nazmul hasan\documents\visual studio 2013\Projects\vehicle\vehicle\obj\Debug\vehicle.pdb
+C:\Users\acer\Desktop\Git prince\BasisClass\vehicle\vehicle\bin\Debug\vehicle.exe.config
+C:\Users\acer\Desktop\Git prince\BasisClass\vehicle\vehicle\obj\Debug\vehicle.exe
+C:\Users\acer\Desktop\Git prince\BasisClass\vehicle\vehicle\obj\Debug\vehicle.pdb
+C:\Users\acer\Desktop\Git prince\BasisClass\vehicle\vehicle\bin\Debug\vehicle.exe
+C:\Users\acer\Desktop\Git prince\BasisClass\vehicle\vehicle\bin\Debug\vehicle.pdb
+C:\Users\acer\Desktop\Git prince\BasisClass\vehicle\vehicle\obj\Debug\vehicle.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Git prince\BasisClass\vehicle\vehicle\obj\Debug\vehicle.vehicleUI.resources
+C:\Users\acer\Desktop\Git prince\BasisClass\vehicle\vehicle\obj\Debug\vehicle.Properties.Resources.resources
+C:\Users\acer\Desktop\Git prince\BasisClass\vehicle\vehicle\obj\Debug\vehicle.csproj.GenerateResource.Cache

@@ -23,7 +23,7 @@ namespace vehicle
         }
 
         public double Speed {
-            set { speedList.Add(value); }
+            set; get;
         }
 
         private string names;
@@ -49,15 +49,42 @@ namespace vehicle
             return sum/count;
 
         }
-
+        double max = 0;
         public double MaxCalculator()
         {
-            return speedList.Max();
+
+            double min = 0;
+            if (Speed > max)
+            {
+                max = Speed;
+                if (max <= min)
+                {
+                    min = Speed;
+                }
+            }
+            else
+            {
+                min = Speed;
+            }
+            return max;
         }
 
         public double MinCalculator()
         {
-            return speedList.Min();
+            //double min = 0;
+            //if (Speed > max)
+            //{
+            //    max = Speed;
+            //    if (max <= min)
+            //    {
+            //        min = Speed;
+            //    }
+            //}
+            //else
+            //{
+            //    min = Speed;
+            //}
+            return 0;
         }
     }
 }
