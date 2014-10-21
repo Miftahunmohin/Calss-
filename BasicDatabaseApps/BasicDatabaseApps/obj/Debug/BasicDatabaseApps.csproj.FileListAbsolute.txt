@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\Harun\BasicDatabaseApps\BasicDatabaseApps\bin\Debug\BasicDatabaseApps.exe.config
+C:\Users\PC21\Desktop\Harun\BasicDatabaseApps\BasicDatabaseApps\bin\Debug\BasicDatabaseApps.exe
+C:\Users\PC21\Desktop\Harun\BasicDatabaseApps\BasicDatabaseApps\bin\Debug\BasicDatabaseApps.pdb
+C:\Users\PC21\Desktop\Harun\BasicDatabaseApps\BasicDatabaseApps\obj\Debug\BasicDatabaseApps.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Harun\BasicDatabaseApps\BasicDatabaseApps\obj\Debug\BasicDatabaseApps.ProductEntityUi.resources
+C:\Users\PC21\Desktop\Harun\BasicDatabaseApps\BasicDatabaseApps\obj\Debug\BasicDatabaseApps.Properties.Resources.resources
+C:\Users\PC21\Desktop\Harun\BasicDatabaseApps\BasicDatabaseApps\obj\Debug\BasicDatabaseApps.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Harun\BasicDatabaseApps\BasicDatabaseApps\obj\Debug\BasicDatabaseApps.exe
+C:\Users\PC21\Desktop\Harun\BasicDatabaseApps\BasicDatabaseApps\obj\Debug\BasicDatabaseApps.pdb
